@@ -2,7 +2,9 @@
 
 A **multimodal** data‐analysis assistant built with Gradio and OpenAI’s function‐calling API.  
 Upload any CSV, then chat naturally to explore, visualize, and preprocess your data—all driven by GPT-4, with real charts rendered in your browser.
+---
 
+## Demo : https://drive.google.com/file/d/1a1qZWS8NpE-S9aGeUDl4qbxpdHzkA_ek/view?usp=drive_link
 ---
 
 ## 🚀 Features
